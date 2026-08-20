@@ -1,4 +1,4 @@
-# Data Mining - Academic Year 2024-2025
+# Data Mining - Academic Year 2025-2026
 
 [![Course](https://img.shields.io/badge/Course-Data_Mining_(MYE012)-blue.svg)]()
 [![Institution](https://img.shields.io/badge/Institution-University_of_Ioannina-red.svg)]()
